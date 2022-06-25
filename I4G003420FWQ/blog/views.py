@@ -7,7 +7,7 @@ from django.views.generic.edit import UpdateView
 
 
 
-from I4G003420FWQ.blog.models import Post
+from blog.models import Post
 
 # Create your views here.
 
